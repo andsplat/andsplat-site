@@ -49,4 +49,7 @@
   .subtitle {
 	display: none;
   }
+  .post-comment.reply {
+    margin-left: 1.5em;
+}
 }
