@@ -51,5 +51,9 @@
   }
   .post-comment.reply {
     margin-left: 1.5em;
-}
+  }
+.collapsiblecontent {
+  padding: 1em;
+}  
+  
 }
