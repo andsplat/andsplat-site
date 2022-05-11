@@ -76,5 +76,7 @@
     <loc>https://andsplat.com/archive/</loc>
   </url><url>
     <loc>https://andsplat.com/categories/</loc>
+  </url><url>
+    <loc>https://andsplat.com/rss-newsletter/</loc>
   </url>
 </urlset>
