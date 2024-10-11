@@ -6,7 +6,58 @@
     <description>Recent content in Design on &amp;* andsplat, a blog by Ben W. Fey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://andsplat.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://andsplat.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rollei 35: 3D-Printed Cold Shoe Project</title>
+      <link>https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/</guid><description>
+	  &lt;figure&gt;
+&lt;a href=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-01.jpg&#34; data-lightbox=&#34;post&#34;&gt;&lt;img src=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-01.jpg&#34; alt=&#34;Rollei 35 with 3D-printed cold shoe&#34;&gt;&lt;/a&gt;
+&lt;figcaption&gt;Rollei 35 with 3D-printed cold shoe&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p class=&#34;has-drop-cap&#34;&gt;I was tired of attaching my small light meter to the bottom of my Rollei 35 as the hot shoe is on the bottom of the camera. This means that you cannot lay the camera down on a table with the bottom of the camera on the table surface. It also means that you need to hold the camera upside down to meter and then flip the camera back upright to take the photograph. These are small details, but small details matter. I love how small the Rollei 35 camera is, but wanted to figure out how to mount my light meter on the top of the camera. I decided the easiest solution was to design and 3d print a cold shoe that I could tape to the top of the camera.&lt;/p&gt;
+&lt;h2 id=&#34;searching-for-existing-designs&#34;&gt;Searching for existing designs&lt;/h2&gt;
+&lt;p&gt;I first started by searching the internet to see if someone had already solved this problem. It seems that a few people have also 3d-printed a cold shoe for the Rollei 35, but I couldn&amp;rsquo;t find any source files and I didn&amp;rsquo;t like solutions I was seeing online for various reasons.&lt;/p&gt;
+&lt;p&gt;I then decided to search for just a regular cold shoe 3d model that I could modify to fit the Rollei 35. In my search on Printables, I found a cold shoe design that was licensed under a Creative Commons license that allowed for modifications as long as I share my design under the same Creative Commons license. The file I found is the &lt;a href=&#34;https://www.printables.com/model/250786-cold-shoe-for-storage-cheese-plate/files&#34; target=&#34;_blank&#34;&gt;Cold Shoe (for Storage Cheese Plate)&lt;/a&gt;.&lt;/p&gt;
+&lt;figure&gt;
+&lt;a href=&#34;rollei-35-02.png&#34; data-lightbox=&#34;post&#34;&gt;&lt;img src=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-02.png&#34; alt=&#34;FreeCAD showing the found Printables cold shoe STL file&#34;&gt;&lt;/a&gt;
+&lt;figcaption&gt;Cold shoe STL file that I found on Printables website&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;modifying-the-source-file&#34;&gt;Modifying the source file&lt;/h2&gt;
+&lt;p&gt;It has been a while since I have modified a 3D model (architecture school was a long time ago). I downloaded &lt;a href=&#34;https://www.freecad.org&#34; target=&#34;_blank&#34;&gt;FreeCAD&lt;/a&gt; and started figuring out how to modify the part I found to fit and work on the Rollei 35. After a lot of measurements, Google searches, and YouTube videos, I was able to create a new part that will fit on top of the Rollei 35 camera. The design had to place the light meter in the location I wanted while allowing room for the film advance lever and the lens retract button.&lt;/p&gt;
+&lt;figure&gt;
+&lt;a href=&#34;rollei-35-03.png&#34; data-lightbox=&#34;post&#34;&gt;&lt;img src=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-03.png&#34; alt=&#34;FreeCAD showing the found Printables cold shoe STL file&#34;&gt;&lt;/a&gt;
+&lt;figcaption&gt;My cold shoe design, made specifically for the Rollei 35&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;printing-my-new-design&#34;&gt;Printing my new design&lt;/h2&gt;
+&lt;p&gt;I then went to my local university and printed my new design in white PLA plastic. My light meter fit in the first 3D print, so I didn&amp;rsquo;t make any changes or updates to the design file. I then purchased 3M VHB double-sided tape so I could attach the cold shoe to the camera.&lt;/p&gt;
+&lt;figure&gt;
+&lt;a href=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-04.jpg&#34; data-lightbox=&#34;post&#34;&gt;&lt;img src=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-04.jpg&#34; alt=&#34;Printing the cold shoe design&#34;&gt;&lt;/a&gt;
+&lt;figcaption&gt;Printing my design. The print took around 40 minutes.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;the-final-design&#34;&gt;The final design&lt;/h2&gt;
+&lt;p&gt;I added 3M VHB double-sided tape to the cold shoe so I could easily and securely attach it to the top of the Rollei 35. I also added painter&amp;rsquo;s tape to the bottom of the cold shoe slot, folding the tape on itself at the edge to provide some friction for the light meter.&lt;/p&gt;
+&lt;figure&gt;
+&lt;a href=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-05.jpg&#34; data-lightbox=&#34;post&#34;&gt;&lt;img src=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-05.jpg&#34; style=&#34;border: 1px solid #ccc;&#34; alt=&#34;Final design before it was attached to the camera&#34;&gt;&lt;/a&gt;
+&lt;figcaption&gt;Final design before it was attached to the camera. 1: top view. 2: bottom, showing cutout for film advance. 3: 3M VHB double-sided tape.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;a href=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-06.jpg&#34; data-lightbox=&#34;post&#34;&gt;&lt;img src=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-06.jpg&#34; alt=&#34;Final design before it was attached to the camera&#34;&gt;&lt;/a&gt;
+&lt;figcaption&gt;Cold shoe attached to the camera. Showing the cutout for the film advance and painter&#39;s tape for added friction.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;a href=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-07.jpg&#34; data-lightbox=&#34;post&#34;&gt;&lt;img src=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-07.jpg&#34; style=&#34;border: 1px solid #ccc;&#34; alt=&#34;Final design before it was attached to the camera&#34;&gt;&lt;/a&gt;
+&lt;figcaption&gt;Light meter in cold shoe&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;file-download&#34;&gt;File download&lt;/h2&gt;
+&lt;p&gt;If you would like to use this file with your Rollei 35, I have uploaded my design to the Printables website: &lt;a href=&#34;https://www.printables.com/model/1034864-rollei-35-cold-shoe&#34; target=&#34;_blank&#34;&gt;Printables: Rollei 35 Cold Shoe&lt;/a&gt;.&lt;/p&gt;
+
+	  
+	  </description>
+    </item>
+    
     <item>
       <title>Typewriters in 2022</title>
       <link>https://andsplat.com/2022/04/27/typewriters-in-2022/</link>
