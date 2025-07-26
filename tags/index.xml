@@ -6,14 +6,14 @@
     <description>Recent content in Tags on &amp;* andsplat, a blog by Ben W. Fey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>Ben W. Fey (ben@benwfey.com)</managingEditor>
-    <webMaster>Ben W. Fey (ben@benwfey.com)</webMaster>
+    <managingEditor>ben@benwfey.com (Ben W. Fey)</managingEditor>
+    <webMaster>ben@benwfey.com (Ben W. Fey)</webMaster>
     <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://andsplat.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microblog</title>
       <link>https://andsplat.com/tags/microblog/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <author>Ben W. Fey (ben@benwfey.com)</author>
+      <dc:creator>Ben W. Fey</dc:creator>
       <guid>https://andsplat.com/tags/microblog/</guid><description>
 	  	
 	  
@@ -25,7 +25,7 @@
       <title>Photography</title>
       <link>https://andsplat.com/tags/photography/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <author>Ben W. Fey (ben@benwfey.com)</author>
+      <dc:creator>Ben W. Fey</dc:creator>
       <guid>https://andsplat.com/tags/photography/</guid><description>
 	  	
 	  
@@ -37,7 +37,7 @@
       <title>366 Photography Project 2024</title>
       <link>https://andsplat.com/tags/366-photography-project-2024/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <author>Ben W. Fey (ben@benwfey.com)</author>
+      <dc:creator>Ben W. Fey</dc:creator>
       <guid>https://andsplat.com/tags/366-photography-project-2024/</guid><description>
 	  	
 	  
@@ -49,7 +49,7 @@
       <title>Design</title>
       <link>https://andsplat.com/tags/design/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <author>Ben W. Fey (ben@benwfey.com)</author>
+      <dc:creator>Ben W. Fey</dc:creator>
       <guid>https://andsplat.com/tags/design/</guid><description>
 	  	
 	  
@@ -61,7 +61,7 @@
       <title>Technology</title>
       <link>https://andsplat.com/tags/technology/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <author>Ben W. Fey (ben@benwfey.com)</author>
+      <dc:creator>Ben W. Fey</dc:creator>
       <guid>https://andsplat.com/tags/technology/</guid><description>
 	  	
 	  
@@ -73,7 +73,7 @@
       <title>Typewriter</title>
       <link>https://andsplat.com/tags/typewriter/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <author>Ben W. Fey (ben@benwfey.com)</author>
+      <dc:creator>Ben W. Fey</dc:creator>
       <guid>https://andsplat.com/tags/typewriter/</guid><description>
 	  	
 	  
@@ -85,7 +85,7 @@
       <title>Photo Essay</title>
       <link>https://andsplat.com/tags/photo-essay/</link>
       <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-      <author>Ben W. Fey (ben@benwfey.com)</author>
+      <dc:creator>Ben W. Fey</dc:creator>
       <guid>https://andsplat.com/tags/photo-essay/</guid><description>
 	  	
 	  
@@ -97,7 +97,7 @@
       <title>Stationery</title>
       <link>https://andsplat.com/tags/stationery/</link>
       <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
-      <author>Ben W. Fey (ben@benwfey.com)</author>
+      <dc:creator>Ben W. Fey</dc:creator>
       <guid>https://andsplat.com/tags/stationery/</guid><description>
 	  	
 	  
@@ -109,7 +109,7 @@
       <title>Life</title>
       <link>https://andsplat.com/tags/life/</link>
       <pubDate>Sun, 26 Jan 2014 20:12:31 -0500</pubDate>
-      <author>Ben W. Fey (ben@benwfey.com)</author>
+      <dc:creator>Ben W. Fey</dc:creator>
       <guid>https://andsplat.com/tags/life/</guid><description>
 	  	
 	  
