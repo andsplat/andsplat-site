@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microblog on &amp;* andsplat, a blog by Ben W. Fey</title>
-    <link>https://andsplat.com/microblog/</link>
+    <link>https://andsplat.com/tags/microblog/</link>
     <description>Recent content in Microblog on &amp;* andsplat, a blog by Ben W. Fey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>Ben W. Fey</managingEditor>
     <webMaster>Ben W. Fey</webMaster>
-    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://andsplat.com/microblog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://andsplat.com/tags/microblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quiet light</title>
       <link>https://andsplat.com/microblog/2025/07/26/quiet-light/</link>
