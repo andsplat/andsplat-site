@@ -312,13 +312,13 @@
 &lt;p&gt;I first started by searching the internet to see if someone had already solved this problem. It seems that a few people have also 3d-printed a cold shoe for the Rollei 35, but I couldn&amp;rsquo;t find any source files and I didn&amp;rsquo;t like solutions I was seeing online for various reasons.&lt;/p&gt;
 &lt;p&gt;I then decided to search for just a regular cold shoe 3d model that I could modify to fit the Rollei 35. In my search on Printables, I found a cold shoe design that was licensed under a Creative Commons license that allowed for modifications as long as I share my design under the same Creative Commons license. The file I found is the &lt;a href=&#34;https://www.printables.com/model/250786-cold-shoe-for-storage-cheese-plate/files&#34; target=&#34;_blank&#34;&gt;Cold Shoe (for Storage Cheese Plate)&lt;/a&gt;.&lt;/p&gt;
 &lt;figure&gt;
-&lt;a href=&#34;rollei-35-02.png&#34; data-lightbox=&#34;post&#34;&gt;&lt;img src=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-02.png&#34; alt=&#34;FreeCAD showing the found Printables cold shoe STL file&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-02.png&#34; data-lightbox=&#34;post&#34;&gt;&lt;img src=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-02.png&#34; alt=&#34;FreeCAD showing the found Printables cold shoe STL file&#34;&gt;&lt;/a&gt;
 &lt;figcaption&gt;Cold shoe STL file that I found on Printables website&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h2 id=&#34;modifying-the-source-file&#34;&gt;Modifying the source file&lt;/h2&gt;
 &lt;p&gt;It has been a while since I have modified a 3D model (architecture school was a long time ago). I downloaded &lt;a href=&#34;https://www.freecad.org&#34; target=&#34;_blank&#34;&gt;FreeCAD&lt;/a&gt; and started figuring out how to modify the part I found to fit and work on the Rollei 35. After a lot of measurements, Google searches, and YouTube videos, I was able to create a new part that will fit on top of the Rollei 35 camera. The design had to place the light meter in the location I wanted while allowing room for the film advance lever and the lens retract button.&lt;/p&gt;
 &lt;figure&gt;
-&lt;a href=&#34;rollei-35-03.png&#34; data-lightbox=&#34;post&#34;&gt;&lt;img src=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-03.png&#34; alt=&#34;FreeCAD showing the found Printables cold shoe STL file&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-03.png&#34; data-lightbox=&#34;post&#34;&gt;&lt;img src=&#34;https://andsplat.com/2024/10/11/rollei-35-3d-printed-cold-shoe-project/rollei-35-03.png&#34; alt=&#34;FreeCAD showing the found Printables cold shoe STL file&#34;&gt;&lt;/a&gt;
 &lt;figcaption&gt;My cold shoe design, made specifically for the Rollei 35&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h2 id=&#34;printing-my-new-design&#34;&gt;Printing my new design&lt;/h2&gt;
